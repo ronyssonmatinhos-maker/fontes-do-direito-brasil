@@ -1,0 +1,21 @@
+{
+  "id": "stj-resp-2024-001",
+  "tipo": "precedente",
+  "categoria": "jurisprudencia",
+  "tribunal": "STJ",
+  "titulo": "Exemplo de precedente do STJ",
+  "resumo": "Registro de exemplo para integra do repertório de precedentes do STJ.",
+  "texto": "Ementa ou trecho do precedente.",
+  "palavras_chave": [
+    "STJ",
+    "precedente",
+    "recurso repetitivo"
+  ],
+  "fonte_oficial": "Superior Tribunal de Justiça",
+  "url": "https://www.stj.jus.br",
+  "data_coleta": "2026-11-10",
+  "status": "ativa",
+  "ano": 2024,
+  "numero": "001",
+  "tags": ["stj", "precedente", "repetitivo"]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "stf-sumula-vinculante-52",
+  "tipo": "sumula_vinculante",
+  "categoria": "jurisprudencia",
+  "tribunal": "STF",
+  "titulo": "Súmula Vinculante nº 52",
+  "resumo": "Exemplo de item jurisprudencial do STF para organização do acervo.",
+  "texto": "Resumo textual da súmula vinculante ou ementa do acórdão.",
+  "palavras_chave": [
+    "súmula vinculante",
+    "direito processual",
+    "STF"
+  ],
+  "fonte_oficial": "Supremo Tribunal Federal",
+  "url": "https://portal.stf.jus.br",
+  "data_coleta": "2026-11-10",
+  "status": "ativa",
+  "ano": 2024,
+  "numero": "52",
+  "tags": ["stf", "sumula", "vinculante"]
+}
