@@ -1,0 +1,17 @@
+{
+  "id": "indice-busca-v1",
+  "tipo": "indice",
+  "categoria": "busca",
+  "tribunal": "GERAL",
+  "titulo": "Índice inicial de busca",
+  "resumo": "Registro de busca do acervo inicial para facilitar filtros por tipo e tribunal.",
+  "texto": "Índice do projeto para consulta inicial.",
+  "palavras_chave": ["índice", "busca", "acervo"],
+  "fonte_oficial": "Repositório local",
+  "url": "https://github.com/ronyssonmatinhos-maker/fontes-do-direito-brasil",
+  "data_coleta": "2026-11-10",
+  "status": "ativa",
+  "ano": 2026,
+  "numero": "v1",
+  "tags": ["indice", "busca", "mvp"]
+}

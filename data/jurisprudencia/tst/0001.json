@@ -1,0 +1,17 @@
+{
+  "id": "tst-oj-001",
+  "tipo": "orientacao_jurisprudencial",
+  "categoria": "jurisprudencia",
+  "tribunal": "TST",
+  "titulo": "Exemplo de OJ do TST",
+  "resumo": "Registro inicial para o conjunto de OJs do TST.",
+  "texto": "Orientação jurisprudencial do TST.",
+  "palavras_chave": ["TST", "OJ", "trabalho"],
+  "fonte_oficial": "Tribunal Superior do Trabalho",
+  "url": "https://www.tst.jus.br",
+  "data_coleta": "2026-11-10",
+  "status": "ativa",
+  "ano": 2024,
+  "numero": "001",
+  "tags": ["tst", "oj", "trabalho"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "trt9-sumula-001",
+  "tipo": "sumula",
+  "categoria": "jurisprudencia",
+  "tribunal": "TRT9",
+  "titulo": "Exemplo de súmula do TRT9",
+  "resumo": "Registro inicial para organização do acervo regional do TRT9.",
+  "texto": "Súmula ou orientação do TRT9.",
+  "palavras_chave": ["TRT9", "súmula", "justiça do trabalho"],
+  "fonte_oficial": "Tribunal Regional do Trabalho da 9ª Região",
+  "url": "https://www.trt9.jus.br",
+  "data_coleta": "2026-11-10",
+  "status": "ativa",
+  "ano": 2024,
+  "numero": "001",
+  "tags": ["trt9", "sumula", "trabalho"]
+}

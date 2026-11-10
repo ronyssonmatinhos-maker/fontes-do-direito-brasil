@@ -1,0 +1,17 @@
+{
+  "id": "lei-federal-13.467-2017",
+  "tipo": "lei",
+  "categoria": "legislacao",
+  "tribunal": "BRASIL",
+  "titulo": "Lei 13.467/2017",
+  "resumo": "Exemplo de lei federal relevante para o Direito do Trabalho.",
+  "texto": "Texto da lei ou trecho normativo relevante.",
+  "palavras_chave": ["CLT", "direito do trabalho", "legislação federal"],
+  "fonte_oficial": "Planalto / Casa Civil",
+  "url": "https://www.planalto.gov.br",
+  "data_coleta": "2026-11-10",
+  "status": "ativa",
+  "ano": 2017,
+  "numero": "13.467/2017",
+  "tags": ["lei", "trabalho", "federal"]
+}
