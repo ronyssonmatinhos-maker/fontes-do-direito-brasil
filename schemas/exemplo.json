@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ronyssonmatinhos-maker/fontes-do-direito-brasil/schemas/fonte.schema.json",
+  "title": "Fonte do Direito Brasileiro",
+  "type": "object",
+  "required": [
+    "id",
+    "tipo",
+    "categoria",
+    "tribunal",
+    "titulo",
+    "resumo",
+    "fonte_oficial",
+    "url",
+    "data_coleta",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Identificador único da fonte"
+    },
+    "tipo": {
+      "type": "string",
+      "enum": [
+        "lei",
+        "constituicao",
+        "sumula",
+        "sumula_vinculante",
+        "orientacao_jurisprudencial",
+        "acordao",
+        "sentenca",
+        "tema_repetitivo",
+        "precedente",
+        "tese",
+        "regulamento",
+        "tratado",
+        "outro"
+      ]
+    },
+    "categoria": {
+      "type": "string",
+      "description": "Ex.: legislacao, jurisprudencia, orientacao, tema"
+    },
+    "tribunal": {
+      "type": "string",
+      "description": "Ex.: STF, STJ, TST, TRT9, CNJ"
+    },
+    "titulo": {
+      "type": "string"
+    },
+    "resumo": {
+      "type": "string"
+    },
+    "texto": {
+      "type": ["string", "null"],
+      "description": "Texto completo, quando disponível"
+    },
+    "palavras_chave": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "fonte_oficial": {
+      "type": "string",
+      "description": "Portal, tribunal ou órgão oficial"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "data_coleta": {
+      "type": "string",
+      "format": "date"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["ativa", "revogada", "anulada", "pendente", "arquivada"]
+    },
+    "ano": {
+      "type": ["integer", "null"]
+    },
+    "numero": {
+      "type": ["string", "null"]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}
